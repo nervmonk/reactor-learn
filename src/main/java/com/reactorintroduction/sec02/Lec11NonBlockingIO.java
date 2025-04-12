@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.reactorintroduction.common.Util;
-import com.reactorintroduction.sec02.client.ExternalServiceClient;
+import com.reactorintroduction.sec05.assignments.ExternalServiceClient;
 
 public class Lec11NonBlockingIO {
     private static final Logger log = LoggerFactory.getLogger(Lec11NonBlockingIO.class);
